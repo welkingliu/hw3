@@ -1,0 +1,11 @@
+{
+  "checkpoint": "/Users/welkinliu/Desktop/hw3/code/runs/act_A/best.pt",
+  "train_envs": [
+    "A"
+  ],
+  "test_env": "D",
+  "action_l1": 0.014309162804856897,
+  "success_threshold": 0.16,
+  "success_rate": 1.0,
+  "num_samples": 400
+}

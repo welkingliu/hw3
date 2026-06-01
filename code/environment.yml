@@ -1,0 +1,10 @@
+name: hw3-act
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pytorch>=2.0
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - tqdm>=4.65
