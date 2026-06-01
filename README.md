@@ -52,7 +52,6 @@ hw3/
 - Object B 宝箱 OBJ 成功读取 MTL 和 diffuse 贴图，可作为带纹理 mesh 插入场景。
 - Object C 石龙 OBJ 没有 MTL 和贴图引用，因此在 Blender 中使用灰色石材材质进行补充。
 - 最终融合图位于：`outputs/task1_fusion/task1_fusion_composite.png`。
-- 任务一完整实验报告位于：`outputs/task1_report/任务一_3DGS与AIGC多源资产融合报告.docx`。
 
 ### 说明与改进点
 
@@ -104,8 +103,6 @@ hw3/
 | 代码 | GitHub `welkingliu/hw3`，本地 `code/` | 任务一脚本、任务二训练与评估代码 |
 | 任务一 Colab | Google Colab 链接 | 3DGS 训练和相关在线实验过程 |
 | 原始数据 | Google Drive 压缩包，本地 `data/` | 视频、帧、COLMAP、OBJ、贴图、3DGS 输出 |
-| 任务一结果 | `outputs/task1_fusion/`、`outputs/task1_report/` | 融合图、Blender 文件、任务一 Word 报告 |
-| 任务二结果 | `code/runs/`、`outputs/task2_report/` | 模型权重、训练指标、评估 JSON、图表、任务二 Word 报告 |
 
 ## 运行方式简述
 
